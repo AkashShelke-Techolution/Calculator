@@ -17,7 +17,7 @@ import com.houarizegai.calculator.theme.properties.Theme;
 import static com.houarizegai.calculator.util.ColorUtil.hex2Color;
 
 public class CalculatorUI {
-//akash smart sync
+//akash smart sync in PROD
     private static final String FONT_NAME = "Comic Sans MS";
     private static final String DOUBLE_OR_NUMBER_REGEX = "([-]?\\d+[.]\\d*)|(\\d+)|(-\\d+)";
     private static final String APPLICATION_TITLE = "Calculator";
